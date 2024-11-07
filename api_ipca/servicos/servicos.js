@@ -1,0 +1,1 @@
+import historicoInflacao from "../dados/dados";
