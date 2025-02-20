@@ -1,4 +1,3 @@
-
 export function validaUsuario(nome, email, telefone) {
     console.log('Validando dados:', { nome, email, telefone });
 

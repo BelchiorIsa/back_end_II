@@ -1,4 +1,4 @@
-// index.js
+
 import express from 'express';
 import cors from 'cors';
 import { validaUsuario } from './validacao/valida.js';
